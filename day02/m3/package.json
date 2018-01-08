@@ -1,0 +1,8 @@
+{
+  "name": "m3",
+  "version": "0.0.1",
+  "dependencies": {
+    
+  },
+  "main":"7_module.js"
+}
